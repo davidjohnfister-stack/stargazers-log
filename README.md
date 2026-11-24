@@ -1,2 +1,2 @@
 # stargazers-log
-A log of the repositories I've starred.
+A logs of the repositories I've starred.
